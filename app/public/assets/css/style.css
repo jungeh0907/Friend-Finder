@@ -1,0 +1,12 @@
+body {
+	background-color: #7ce5ec;
+}
+
+.main-jumbo {
+	background-image: URL("../image/dating.png");
+    background-size: auto;
+}
+
+.survey-btn {
+    background-color: #e95420;
+}
